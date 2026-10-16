@@ -198,3 +198,6 @@ Stuck? Open an issue in this repository and describe your system. Most questions
 ---
 
 *auto-caption-generator · Updated 2026-10-16 · Shared under the MIT License*
+
+
+*Last updated: 2026-10-16*
